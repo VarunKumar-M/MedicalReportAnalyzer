@@ -1,0 +1,10 @@
+streamlit
+google-generativeai
+python-dotenv
+pymupdf
+pydicom
+torch
+transformers
+Pillow
+numpy
+regex
